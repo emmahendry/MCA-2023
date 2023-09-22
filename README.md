@@ -14,3 +14,7 @@
 ## *Acoustic Data*
 
 *When looking for audio recordings of this album ("Favourite Worst Nightmare"), I found that the best place to look for audio representation was on the website Internet Archive. By using this website I was able to obtain audio for the completed album, including "505". Audio recording's can also be found on every major music streaming service. Along with this recordings, music videos, fan covers and other related media can be found on YouTube.*
+
+## *Metadata*
+
+*
