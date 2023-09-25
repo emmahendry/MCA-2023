@@ -17,4 +17,8 @@
 
 ## *Metadata*
 
-*
+*An interesting place to look for data surrounding The Arctic Monkeys is their own website. This website provides links to all social media platforms used by the band and where to listen to their music (Spotify, Apple Music, YouTube). There is a page dedicated to their current live shows (dates, locations, etc), along with a page for the bands music videos. Their latest album is on the front page of the website along with a sign up form to their mailing list. By following one of the multiple links to the music streaming platforms listeners will be provided with data such as track names, albums, genres, producers, copyright, album artwork and track durations.* 
+
+## *Challenges*
+
+*Challenges which I encountered during my investigation mainly were surrounding the issue of finding full audio recordings for the songs, I found most websites I invesigated only had partial recordings lasting around 30 seconds. I believe this is due to copyright issues but it did cause me to run into more issues during my data collection period. Along with this it proved difficult to find musical scores which were not fan made. However, I did manage to uncover a pdf which contains the sheet music for the entire album which I have decided to focus on.* 
