@@ -22,3 +22,5 @@
 ## *Challenges*
 
 *Challenges which I encountered during my investigation mainly were surrounding the issue of finding full audio recordings for the songs, I found most websites I invesigated only had partial recordings lasting around 30 seconds. I believe this is due to copyright issues but it did cause me to run into more issues during my data collection period. Along with this it proved difficult to find musical scores which were not fan made. However, I did manage to uncover a pdf which contains the sheet music for the entire album which I have decided to focus on.* 
+
+[week2.](week2.md) 
