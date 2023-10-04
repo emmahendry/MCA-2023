@@ -4,7 +4,7 @@
 *The theme which I have decided to investigate for this Music Curation and Analysis assignment is centered on “The Arctic Monkeys”. This band remains one of the most notable groups to emerge from the early 2000s, with 6 Grammy nominations to their name. I have chosen the album “AM” which was released in 2013 which went No.1 in the UK. This album is widely renowned for being one of their most successful albums. Throughout this project I will be focusing on a piano version for the tasks relating to notated data (musical scores). I have decided to focus closely on arguably, one of their most popular songs to come from this album “Do I Wanna Know”. My interest in this band is due to their notable impact across the last two decades along with being a fan of their music.*
 
 <p align="center">
-<img src="https://github.com/emmahendry/MCA-2023/assets/145599857/2eefb371-a398-46b2-9dc0-bb1545465bb2" width="700" height="400">
+<img src="https://i.pinimg.com/originals/da/05/3e/da053ed8ee59fc53435c32a09d5e94e8.jpg" width="1000" height="500">
 </p>
 
 ## *Musical Scores*
