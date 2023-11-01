@@ -7,11 +7,10 @@
 ## *Task 1: Identifying a Musical Score* #
  
 
-*As previously discussed I am focusing on the song "Amnesia" by 5 Seconds of Summer, A song featured on their self titled album. When trying to located a musical score it proved difficult to find one which was not hidden behind a pay wall. It also became apparent that many sites which claimed to have "free" musical scores were not trustworthy sources for downloading pdfs from. I did however, locate a website which included the score I was searching for. The score is a piano version of the song "Amensia', found on the website:
-[sheetmusic-free.com](https://sheetmusic-free.com/amnesia-sheet-music-5-seconds-of-summer/) , this website focuses on providing users with access to free musical scores.*
+*As previously discussed I am focusing on the song "Amnesia" by 5 Seconds of Summer, A song featured on their self titled album. When trying to located a musical score it proved difficult to find one which was not hidden behind a pay wall. It also became apparent that many sites which claimed to have "free" musical scores were not trustworthy sources for downloading pdfs from. I did however, locate a website which included the score I was searching for. The score is a piano version of the song "Amensia', found on a website which is heavily focused on providing users with access to free musical scores.*
 
 <p float= "Centre" >
-  <img src="https://sheetmusic-free.com/wp-content/uploads/2020/04/Amnesia-Sheet-Music-PDF-5-Seconds-of-Summer-Amnesia-Piano-Sheet-Music-PDF-Free.png" height= "500" width="450" />
+  <img src="https://i.pinimg.com/originals/94/f9/99/94f9993695e10cd03b312388fd89054e.png" height= "500" width="450" />
   <img src="https://i.pinimg.com/originals/1d/b4/43/1db4435c6df4e3a50008748cdbab2b45.jpg" height= "500" width="450" /> 
 </p>
 
