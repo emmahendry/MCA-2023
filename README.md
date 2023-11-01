@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.pinimg.com/originals/ba/c2/5c/bac25ce04d73470cbe8ec03f2acdf9fd.jpg" width="1000" height="350">
+</p>
+
 # MCA
 # Week 1: Basics of Music Data
 ## *Task 1: Identify a Theme* #
@@ -6,9 +10,17 @@
 
 *The theme which I have decided to investigate for this Music Curation and Analysis assignment is concentrated on “5 Seconds of Summer”. This band is one of the most notable groups to emerge from the 2010s, with multiple Grammy nominations to their name. I have chosen their self-titled album “5 Seconds of Summer”, released in 2014 which went No.1 in the 11 countries. It is widely renowned for being one of their most successful albums. I have decided to focus closely on arguably, one of their most popular songs to come from this album “Amnesia”. Throughout this project I will be focusing on a piano version for the tasks relating to notated data (musical scores). My interest in this topic is due to their notable impact across the last decade in the pop-punk scene, along with being a fan of their music for many years and the personal impact which their work has had on my music taste.* 
 
+
+## *Contents:* 
+
+[week2.](week2.md) 
+
+
 <p align="center">
-<img src="https://i.pinimg.com/originals/0b/8d/61/0b8d61a52e28fe0a4d221fb09f8a12ed.jpg" width="1000" height="500">
+<img src="https://i.pinimg.com/originals/01/db/d6/01dbd69e9e3548e3e65b21cf537f5c61.jpg" width="1000" height="350">
 </p>
+
+## *Week 1:*
 
 ## *Musical Scores*
 
@@ -26,4 +38,4 @@
 
 *Challenges which I encountered during my investigation mainly were surrounding the issue of finding full audio recordings for the songs, I found most websites I invesigated only had partial recordings lasting around 30 seconds. I believe this is due to copyright issues but it did cause me to run into more issues during my data collection period. Along with this it proved difficult to find musical scores which were not fan made.* 
 
-[week2.](week2.md) 
+
