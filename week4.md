@@ -8,7 +8,7 @@
 
  ### *Pitch Histogram* ###
 
- A pitch histogram is designed to showcase the numerical data associated with how many times musical notes are played throughout songs. 
+ *A pitch histogram is designed to showcase the numerical data associated with how many times musical notes are played throughout songs.* 
 <p align="center">
 <img src="https://i.pinimg.com/originals/30/51/4b/30514b78841324680bf204aa13c02292.png" width="600" height="550">
 </p>
