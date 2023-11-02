@@ -32,13 +32,6 @@
 
 *When looking for audio recordings of this album ("5 Seconds of Summer"), I found that the best place to look for audio representation was on the website Internet Archive. By using this website I was able to obtain audio for the completed album, including "Amnesia". Audio recording's can also be found on every major music streaming service. Along with this recordings, music videos, fan covers and other related media can be found on YouTube.*
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=DCCJCILiX3o" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
 ## *Metadata*
 
