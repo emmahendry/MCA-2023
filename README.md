@@ -35,7 +35,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DCCJCILiX3o
 " target="_blank"><img src="http://img.youtube.com/vi/DCCJCILiX3o/0.jpg" 
-alt="Amnesia Music Video" width="1000" height="450" border="10" /></a> 
+alt="Amnesia Music Video" width="1000" height="550" border="10" /></a> 
 
 ## *Metadata*
 
