@@ -32,11 +32,10 @@
 
 *When looking for audio recordings of this album ("5 Seconds of Summer"), I found that the best place to look for audio representation was on the website Internet Archive. By using this website I was able to obtain audio for the completed album, including "Amnesia". Audio recording's can also be found on every major music streaming service. Along with this recordings, music videos, fan covers and other related media can be found on YouTube.*
 
- [![Amnesia Music Video](https://img.youtube.com/vi/DCCJCILiX3o/0.jpg)](https://www.youtube.com/watch?v=DCCJCILiX3o)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DCCJCILiX3o
 " target="_blank"><img src="http://img.youtube.com/vi/DCCJCILiX3o/0.jpg" 
-alt="Amnesia Music Video" width="240" height="180" border="10" /></a> 
+alt="Amnesia Music Video" width="1000" height="350" border="10" /></a> 
 
 ## *Metadata*
 
