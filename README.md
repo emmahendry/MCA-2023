@@ -2,7 +2,12 @@
 <img src="https://i.pinimg.com/originals/ba/c2/5c/bac25ce04d73470cbe8ec03f2acdf9fd.jpg" width="1000" height="350">
 </p>
 
-# MCA
+## *Contents:* 
+
+- [Week 1](README.md)
+- [Week 2](week2.md) 
+- [Week 3](verovio.html) 
+
 # Week 1: Basics of Music Data
 ## *Task 1: Identify a Theme* #
 *5 Seconds of Summer are a pop-punk band originating from Sydney, Australia. The band originally rose to fame due to a plethora of cover songs posted on their YouTube channel. Currently with 6 albums in their discography there is an apparent genre shift between the group’s older music (which I have chosen to focus on) and their current sound. The band has made a clear shift away from pop-punk and has chosen to follow the route of pop-rock and new wave. I have chosen to focus on the more formative years of the band’s discography which is the earlier years of the career which gave us albums such as “Sounds Good Feels Good” and “5 Seconds of Summer”. I believe this album showcases what made them stand out from bands with similar styles in the 2010s, giving us songs such as “English Lover Affair” and “She Looks So Perfect” (arguably on of their most popular songs to this day).* 
@@ -10,12 +15,6 @@
 
 *The theme which I have decided to investigate for this Music Curation and Analysis assignment is concentrated on “5 Seconds of Summer”. This band is one of the most notable groups to emerge from the 2010s, with multiple Grammy nominations to their name. I have chosen their self-titled album “5 Seconds of Summer”, released in 2014 which went No.1 in the 11 countries. It is widely renowned for being one of their most successful albums. I have decided to focus closely on arguably, one of their most popular songs to come from this album “Amnesia”. Throughout this project I will be focusing on a piano version for the tasks relating to notated data (musical scores). My interest in this topic is due to their notable impact across the last decade in the pop-punk scene, along with being a fan of their music for many years and the personal impact which their work has had on my music taste.* 
 
-
-## *Contents:* 
-
-- [Week 1](README.md)
-- [Week 2](week2.md) 
-- [Week 3](verovio.html) 
 
 
 <p align="center">
