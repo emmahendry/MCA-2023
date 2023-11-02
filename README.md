@@ -13,8 +13,8 @@
 
 ## *Contents:* 
 
-[week2.](week2.md) 
-[week 3](verovio.html) 
+- [week2](week2.md) 
+- [week 3](verovio.html) 
 
 
 <p align="center">
