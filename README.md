@@ -34,9 +34,9 @@
 
  [![Amnesia Music Video](https://img.youtube.com/vi/DCCJCILiX3o/0.jpg)](https://www.youtube.com/watch?v=DCCJCILiX3o)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DCCJCILiX3o
+" target="_blank"><img src="http://img.youtube.com/vi/DCCJCILiX3o/0.jpg" 
+alt="Amnesia Music Video" width="240" height="180" border="10" /></a> 
 
 ## *Metadata*
 
