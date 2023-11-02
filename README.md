@@ -32,8 +32,8 @@
 
 *When looking for audio recordings of this album ("5 Seconds of Summer"), I found that the best place to look for audio representation was on the website Internet Archive. By using this website I was able to obtain audio for the completed album, including "Amnesia". Audio recording's can also be found on every major music streaming service. Along with this recordings, music videos, fan covers and other related media can be found on YouTube.*
 
-<p align="center"> [![Amnesia Music Video](https://img.youtube.com/vi/DCCJCILiX3o/0.jpg)](https://www.youtube.com/watch?v=DCCJCILiX3o)
-</p>
+  [![Amnesia Music Video](https://img.youtube.com/vi/DCCJCILiX3o/0.jpg)](https://www.youtube.com/watch?v=DCCJCILiX3o)
+
 ## *Metadata*
 
 *An interesting place to look for data surrounding 5 Seconds of Summer is their own website. This website provides links to all social media platforms used by the band and where to listen to their music (Spotify, Apple Music, YouTube). There is a page dedicated to their current live shows (dates, locations, etc), along with a page for the bands music videos and song visualisers. Their latest album is on the front page of the website along with a sign up form to their mailing list. By following one of the multiple links to the music streaming platforms listeners will be provided with data such as track names, albums, genres, producers, copyright, album artwork and track durations.* 
