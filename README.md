@@ -13,6 +13,7 @@
 
 ## *Contents:* 
 
+- [Week 1](README.md)
 - [Week 2](week2.md) 
 - [Week 3](verovio.html) 
 
