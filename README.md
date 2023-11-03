@@ -7,7 +7,8 @@
 - [Week 1](README.md)
 - [Week 2](week2.md) 
 - [Week 3](verovio.html)
-- [Week 4](week4.md) 
+- [Week 4](week4.md)
+- [week 3 md](verovio_markdown.md) 
 
 # Week 1: Basics of Music Data
 ## *Task 1: Identify a Theme* #
