@@ -6,7 +6,7 @@
 
 - [Week 1](README.md)
 - [Week 2](week2.md) 
-- [week 3 md](verovio_markdown.md) 
+- [week 3](verovio_markdown.md) 
 - [Week 4](week4.md)
 
 
