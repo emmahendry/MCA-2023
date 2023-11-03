@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.pinimg.com/originals/97/ca/d7/97cad78df76788f6c3f5edc58fb110d2.jpg" width="1000" height="350">
+</p>
+
 # *Week 3*
 
 ## *Task 1:*
