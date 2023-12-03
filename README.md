@@ -3,7 +3,7 @@
 </p>
 
 ## *Contents:* 
-[WEEK 1](README.md) | [WEEK 2](mca_week2.html) | [WEEK 3](mca_week3.html) | [WEEK 4](mca_week4.html) | [WEEK 5](mca_week5.html) | [WEEK 7](mca_week7.html) | [WEEK 8](mca_week8.html) | [WEEK 9](mca_week9.html) | [WEEK 10](mca_week10.html)
+[WEEK 1](README.md) | [WEEK 2](mca_week2.html) | [WEEK 3](week3.md) | [WEEK 4](mca_week4.html) | [WEEK 5](mca_week5.html) | [WEEK 7](mca_week7.html) | [WEEK 8](mca_week8.html) | [WEEK 9](mca_week9.html) | [WEEK 10](mca_week10.html)
 
 
 
