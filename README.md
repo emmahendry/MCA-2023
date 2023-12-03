@@ -3,11 +3,8 @@
 </p>
 
 ## *Contents:* 
+[WEEK 1](README.md) | [WEEK 2](mca_week2.html) | [WEEK 3](mca_week3.html) | [WEEK 4](mca_week4.html) | [WEEK 5](mca_week5.html) | [WEEK 7](mca_week7.html) | [WEEK 8](mca_week8.html) | [WEEK 9](mca_week9.html) | [WEEK 10](mca_week10.html)
 
-- [Week 1](README.md)
-- [Week 2](week2.md) 
-- [Week 3](verovio_markdown.md) 
-- [Week 4](week4.md)
 
 
 # Week 1: Basics of Music Data
