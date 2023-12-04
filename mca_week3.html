@@ -1,0 +1,76 @@
+   </style>
+<script src="CETEI.js"></script>
+</head>
+<body>
+  <div class="container"> 
+     
+<p align="center">
+<img src="https://i.pinimg.com/originals/97/ca/d7/97cad78df76788f6c3f5edc58fb110d2.jpg" width="1000" height="350">
+</p>
+</p>
+<h1><a href="https://emmahendry.github.io/MCA-2023/">MCA-2023</a></h1>
+<table id="menu">
+    <tr>
+      <td id="first"><a href="mca_week1.html">WEEK 1</a></td>
+      <td><a href="mca_week2.html">WEEK 2</a></td>
+      <td><a href="mca_week3.html">WEEK 3</a></td>
+      <td><a href="mca_week4.html">WEEK 4</a></td>
+      <td><a href="mca_week5.html">WEEK 5</a></td>
+      <td><a href="mca_week7.html">WEEK 7</a></td>
+      <td><a href="mca_week8.html">WEEK 8</a></td>
+      <td><a href="mca_week9.html">WEEK 9</a></td>
+      <td><a href="mca_week10.html">WEEK 10</a></td>
+    </tr>
+</table>
+  <h1> Week 3: Encoding Basics for Notation </h1>
+  <h2> Task 1: MusicXML and MEI Files</h2>
+
+  <p> This weeks task was to export the previous weeks score to MusicXML and MEI. After this we were then instructed to render the MEI file using Verovio in GitHub.</p>
+
+  - <p> <br/> Download the MusicXML file <a href="https://github.com/emmahendry/MCA-2023/blob/cda15f6739a4523b9dd92fd4708395cba36c1fbc/data/Amnesia_5sos_piano.mxl"> here.</a> 
+- Download the MEI file <a href="https://github.com/emmahendry/MCA-2023/blob/cda15f6739a4523b9dd92fd4708395cba36c1fbc/data/Amnesia5SecondsofSummer1_Piano.mei"> here.</a>
+
+
+
+
+
+<h1> Task 2: </h1>
+
+<p> Part 2 of this weeks lab tasks consisted of converting the MusicXML file into a MEI file, this convertion can be loacted below. </p>
+
+ <div id="app">Verovio is loading...</div>
+    <script type="module">
+        import 'https://www.verovio.org/javascript/app/verovio-app.js';
+        
+        const options = {
+            defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+            defaultZoom: 3, // 0-7, default is 4
+            enableResponsive: true, // default is true
+            enableDocument: true // default is true
+        }
+        
+        // A MusicXML file
+        var file = 'https://github.com/emmahendry/MCA-2023/blob/master/data/Amnesia5SecondsofSummer1-Piano.mei';
+        // A MEI file
+        //var file = 'https://www.verovio.org/editor/brahms.mei';
+        
+        const app = new Verovio.App(document.getElementById("app"), options);
+        fetch(file)
+            .then(function(response) {
+                return response.text();
+            })
+            .then(function(text) {
+                app.loadData(text);
+            });
+    </script>
+
+<table> 
+  <tr> 
+    <td id="left"> <a href="mca_week2.html"> << WEEK 2: Transcribing Musical Scores</a> </td>
+    <td id="right"> <a href="mca_week4.html"> WEEK 4: Computational analytics of notated music>></a> </td> 
+  </tr>
+</table>
+
+</div>
+</body>
+</html>
