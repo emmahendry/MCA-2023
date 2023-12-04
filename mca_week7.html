@@ -1,0 +1,100 @@
+  </style>
+<script src="CETEI.js"></script>
+</head>
+<body>
+	<div class="container"> 
+    <p align="center">
+<img src="https://i.pinimg.com/originals/92/e6/f3/92e6f3b0b8ed7bafeea044ce9918b1cd.jpg" width="1000" height="350">
+</p>
+<h1><a href="https://emmahendry.github.io/MCA-2023/">MCA-2023</a></h1>
+<table id="menu">
+    <tr>
+      <td id="first"><a href="mca_week1.html">WEEK 1</a></td>
+      <td><a href="mca_week2.html">WEEK 2</a></td>
+      <td><a href="mca_week3.html">WEEK 3</a></td>
+      <td><a href="mca_week4.html">WEEK 4</a></td>
+      <td><a href="mca_week5.html">WEEK 5</a></td>
+      <td><a href="mca_week7.html">WEEK 7</a></td>
+      <td><a href="mca_week8.html">WEEK 8</a></td>
+      <td><a href="mca_week9.html">WEEK 9</a></td>
+      <td><a href="mca_week10.html">WEEK 10</a></td>
+    </tr>
+</table>
+  <h1> Week 7: Curration Difficulties </h1>
+  <h2> Task 1: Updating Week 5's Metadata:</h2>
+
+  <p> When updating the metadata from week 5 I followed the task's from week 7 and added information relating to the genre of the song. 
+
+    To create this project it was done so through the use of < classification > tags to describe the description of the work, this was also accompanied by the addtion of < genre > tags. 
+	
+	  Licensing data was added in week 5, so there was no need to add this. Finally, 
+	  week 5's metadata was re-examined to make sure everything was correct and properly formatted. <br/>
+	  Access the updated file <a href="data/week7.mei">here</a>.
+	<h2> Task 2: Rendering the revised metadata </h2>
+	<div id="MEImeta"></div>
+  <div id="app">Verovio is loading...</div>
+  <script type="module">
+      import 'https://www.verovio.org/javascript/app/verovio-app.js';
+      const options = {
+          defaultView: 'responsive', // default is 'responsive', alternative is 'document'
+          defaultZoom: 3, // 0-7, default is 4
+          enableResponsive: true, // default is true
+          enableDocument: true // default is true
+      }
+      // A MusicXML file
+      var file = 'data/week7.mei';
+      // A MEI file
+      //var file = 'https://www.verovio.org/editor/brahms.mei';
+      const app = new Verovio.App(document.getElementById("app"), options);
+      fetch(file)
+          .then(function(response) {
+              return response.text();
+          })
+          .then(function(text) {
+              app.loadData(text);
+          });
+  </script>
+  <script>
+    // Get, parse, and show TEI data
+    var CETEIcean = new CETEI()
+    CETEIcean.getHTML5('data/week7.mei', function(data) {
+      document.getElementById("TEI").appendChild(data)
+    })
+    // Get, parse and show MEI header data
+    var CETEI4MEI = new CETEI()
+    CETEI4MEI.addBehaviors({
+      namespaces: {
+        mei: "http://www.music-encoding.org/ns/mei"
+      }
+    })
+    CETEI4MEI.getHTML5('data/week7.mei', function(data) {
+      // get header
+      var meiHead = data.querySelector('mei-meiHead')
+      document.getElementById("MEImeta").appendChild(meiHead)
+    })
+    var vrvToolkit = new verovio.toolkit()
+    vrvToolkit.setOptions(options = {
+        pageHeight: 500,
+        pageWidth: 1000,
+        ignoreLayout: 1,
+        border: 20,
+        scale: 50,
+        adjustPageHeight: true
+    })
+    fetch('data/week7.mei').then(function( response ) {
+        response.text().then(function( data ) {
+          var svg = vrvToolkit.renderData(data, {})
+          document.getElementById('MEI').innerHTML = svg
+        })
+    })
+  </script>
+<table> 
+	<tr> 
+		<td id="left"> <a href="mca_week5.html"> << WEEK 5: Standards in Curation</a> </td>
+		<td id="right"> <a href="mca_week8.html"> WEEK 8: Music as Sound >></a> </td> 
+	</tr>
+</table>
+
+</div>
+</body>
+</html>
