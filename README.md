@@ -44,4 +44,4 @@ An interesting place to look for data surrounding 5 Seconds of Summer is their o
 
 Challenges which I encountered during my investigation mainly were surrounding the issue of finding full audio recordings for the songs, I found most websites I invesigated only had partial recordings lasting around 30 seconds. I believe this is due to copyright issues but it did cause me to run into more issues during my data collection period. Along with this it proved difficult to find musical scores which were not fan made. 
 
-</div>
+
