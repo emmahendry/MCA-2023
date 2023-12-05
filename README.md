@@ -1,3 +1,85 @@
+```html
+   // <body>
+  <body style="background-color:black;">
+  <style> 
+  .container {
+  max-width: 1012px;
+  margin-left: auto;
+  margin-right:auto;
+margin-top:20px;
+  }
+  body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.5;
+    color:style="color:white;";
+    background-color: #fff;
+  margin-bottom: 30px;
+  }
+  h1 {
+    padding-bottom: 10px;
+    font-size: 36px;
+    border-bottom: 1px solid #eaecef;
+  }
+  
+  h2 {
+    padding-bottom: 10px;
+    font-size: 24px;
+    border-bottom: 1px solid #eaecef;
+  }
+      .swiper-container {
+    width: 700px;
+    height: 500px;
+    margin-top: 30px;
+  margin-bottom: 30px;
+    }
+    
+    .pages{
+    width: 600px;
+    height: 400px;
+    }
+    
+   .swiper-wrapper {
+   text-align:center;
+   }
+  #nav {
+    margin: 30px;
+    }
+    
+  #matrix {
+    float:right;
+    margin-left: 20px;
+    }
+  
+#menu {
+display: block;
+width: 100%;
+overflow: auto;
+margin-right: 0px;
+margin-left: 0px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: 1px solid #c6cbd;
+border-collapse:collapse;
+display: table-row-group;
+vertical-align: middle;
+    }
+    
+#menu, tr {
+    border: 1px solid #c6cbd1;
+    }
+    
+#menu, tr, td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5; 
+    }
+#menu, tr, td, a {
+  text-decoration: none;
+  color: #0366d6;
+    }
+  </style>
+```
+
 <p align="center">
 <img src="https://i.pinimg.com/originals/ba/c2/5c/bac25ce04d73470cbe8ec03f2acdf9fd.jpg" width="1000" height="350">
 </p>
