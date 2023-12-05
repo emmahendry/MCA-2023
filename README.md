@@ -27,7 +27,7 @@ The theme which I have decided to investigate for this Music Curation and Analys
 
 Through my investigating I managed to find sheet music for the song ”Amnesia” which concentrated on providing musical scores for the piano. My original plan was to focus on electric guitar but I found after converting the sheet music to a MuseScore file it proved to be difficult understand. During my investigating I looked at many other websites designed for the sharing of musical scores such as MuseScore and found like many others these websites tended to be paywalled in some way or another, leading to the piano version of this song being the easiest to find. 
 
-## Acoustic Data*
+## Acoustic Data
 
 When looking for audio recordings of this album ("5 Seconds of Summer"), I found that the best place to look for audio representation was on the website Fandom Wiki. By using this website I was able to obtain audio for the completed song. Audio recording's can also be found on every major music streaming service. Along with this recordings, music videos, fan covers and other related media can be found on YouTube (as linked below).
 
